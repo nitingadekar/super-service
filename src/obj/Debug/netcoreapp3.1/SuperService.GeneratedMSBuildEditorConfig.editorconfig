@@ -1,5 +1,5 @@
 is_global = true
 build_property.RootNamespace = SuperService
-build_property.ProjectDir = /Users/nitingadekar/Downloads/DevOps interview test/super-service/src/
+build_property.ProjectDir = /Users/nitingadekar/github/super-service/src/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

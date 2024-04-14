@@ -21,3 +21,27 @@
 /Users/nitingadekar/Downloads/DevOps interview test/super-service/src/obj/Debug/netcoreapp3.1/SuperService.dll
 /Users/nitingadekar/Downloads/DevOps interview test/super-service/src/obj/Debug/netcoreapp3.1/SuperService.pdb
 /Users/nitingadekar/Downloads/DevOps interview test/super-service/src/obj/Debug/netcoreapp3.1/SuperService.genruntimeconfig.cache
+/Users/nitingadekar/github/super-service/src/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/nitingadekar/github/super-service/src/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/nitingadekar/github/super-service/src/bin/Debug/netcoreapp3.1/SuperService
+/Users/nitingadekar/github/super-service/src/bin/Debug/netcoreapp3.1/SuperService.deps.json
+/Users/nitingadekar/github/super-service/src/bin/Debug/netcoreapp3.1/SuperService.runtimeconfig.json
+/Users/nitingadekar/github/super-service/src/bin/Debug/netcoreapp3.1/SuperService.runtimeconfig.dev.json
+/Users/nitingadekar/github/super-service/src/bin/Debug/netcoreapp3.1/SuperService.dll
+/Users/nitingadekar/github/super-service/src/bin/Debug/netcoreapp3.1/SuperService.pdb
+/Users/nitingadekar/github/super-service/src/obj/Debug/netcoreapp3.1/SuperService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nitingadekar/github/super-service/src/obj/Debug/netcoreapp3.1/SuperService.AssemblyInfoInputs.cache
+/Users/nitingadekar/github/super-service/src/obj/Debug/netcoreapp3.1/SuperService.AssemblyInfo.cs
+/Users/nitingadekar/github/super-service/src/obj/Debug/netcoreapp3.1/SuperService.csproj.CoreCompileInputs.cache
+/Users/nitingadekar/github/super-service/src/obj/Debug/netcoreapp3.1/SuperService.MvcApplicationPartsAssemblyInfo.cache
+/Users/nitingadekar/github/super-service/src/obj/Debug/netcoreapp3.1/SuperService.sourcelink.json
+/Users/nitingadekar/github/super-service/src/obj/Debug/netcoreapp3.1/SuperService.RazorTargetAssemblyInfo.cache
+/Users/nitingadekar/github/super-service/src/obj/Debug/netcoreapp3.1/staticwebassets/SuperService.StaticWebAssets.Manifest.cache
+/Users/nitingadekar/github/super-service/src/obj/Debug/netcoreapp3.1/staticwebassets/SuperService.StaticWebAssets.Pack.cache
+/Users/nitingadekar/github/super-service/src/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.SuperService.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nitingadekar/github/super-service/src/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.SuperService.props
+/Users/nitingadekar/github/super-service/src/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.SuperService.props
+/Users/nitingadekar/github/super-service/src/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.SuperService.props
+/Users/nitingadekar/github/super-service/src/obj/Debug/netcoreapp3.1/SuperService.dll
+/Users/nitingadekar/github/super-service/src/obj/Debug/netcoreapp3.1/SuperService.pdb
+/Users/nitingadekar/github/super-service/src/obj/Debug/netcoreapp3.1/SuperService.genruntimeconfig.cache
