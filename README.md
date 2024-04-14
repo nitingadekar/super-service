@@ -55,7 +55,7 @@ Web Security : AWS WAF
 For deploying the super-service as a docker container in kubernets cluster, I will choose the AWS EKS service for container orchestration. Major reason is to have a managed service with fully backend for kubernetes masters
 
 
-![alt text](file://super-service.jpeg)
+![Architecture](super-service.jpeg)
 
 
 1. Dotnet App Containerization:
